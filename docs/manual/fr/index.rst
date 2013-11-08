@@ -39,6 +39,8 @@ Tout d'abord, ajoutons l'organisation Dorémi de type entreprise dans l'annuaire
 .. figure:: ./images/add_organization.png
     :align: center
 
+L'utilisateur clique sur l'onglet coordonnées :
+
 .. figure:: ./images/contact_info_form.png
     :align: center
 
