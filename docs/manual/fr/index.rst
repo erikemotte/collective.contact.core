@@ -1,8 +1,8 @@
 .. -*- coding: utf-8 -*-
 
-==============================================================================================================
-Présentation des fonctionnalités possibles d'un annuaire dans un système d'information collaboratif sous Plone
-==============================================================================================================
+==========================================================================
+Présentation des fonctionnalités possibles d'un annuaire avec le CMS Plone
+==========================================================================
 
 La suite `collective.contact.*` est constituée de plusieurs modules permettant de créer et de gérer un annuaire dans un portail Plone. Ce document donne un aperçu des principales fonctionnalités fournies par cette suite.
 
@@ -14,21 +14,21 @@ Créer un contenu "annuaire"
 Un système d'information collaboratif sous Plone contient par défaut un seul annuaire. Cet annuaire permet de gérer des organisations et des fonctions en liaison avec des personnes physiques.
 Il est possible de définir des types d'organisation, des niveaux d'organisation et des types de fonctions spécifiques.
 
-Pour créer un annuaire, il convient de commencer par ajouter un contenu "Annuaire" dans votre système d'information collaboratif sous Plone et de remplir les champs suivants :
+Pour créer un annuaire, il convient de commencer par ajouter un contenu "Annuaire" dans votre système d'information collaboratif sous Plone et de spécifier les champs suivants :
 
 .. figure:: ./images/add_directory.png
     :align: center
 
 
-Ajouter une personne dans l'annuaire
-====================================
+Ajouter des personnes dans l'annuaire
+=====================================
 
 Une fois le contenu "Annuaire" créé, des personnes peuvent être ajoutées :
 
 .. figure:: ./images/mdurand.png
     :align: center
 
-Comme nous le verrons plus tard, une personne peut occuper une ou plusieurs fonctions dans une ou plusieurs organisations.
+Comme indiqué par la suite, une personne peut occuper une ou plusieurs fonctions dans une ou plusieurs organisations.
 
 
 Ajouter une organisation dans l'annuaire
