@@ -4,7 +4,7 @@
 Présentation des fonctionnalités possibles d'un annuaire avec le CMS Plone
 ==========================================================================
 
-La suite `collective.contact.*` est constituée de plusieurs modules permettant de créer et de gérer un annuaire dans un portail Plone. Ce document donne un aperçu des principales fonctionnalités fournies par cette suite.
+Il est possible de créer un annuaire plus ou moins spécifique dans un système d'information collaboratif sous Plone à partir de la suite collective.contact.* . Cette présentation en ligne donne un aperçu des principales fonctionnalités qu'offre cette suite.
 
 .. add toctree ?
 
