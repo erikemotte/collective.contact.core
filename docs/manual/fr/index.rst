@@ -1,20 +1,20 @@
 .. -*- coding: utf-8 -*-
 
-===============================
-Un module d'annuaire pour Plone
-===============================
+==============================================================================================================
+Présentation des fonctionnalités possibles d'un annuaire dans un système d'information collaboratif sous Plone
+==============================================================================================================
 
 La suite `collective.contact.*` est constituée de plusieurs modules permettant de créer et de gérer un annuaire dans un portail Plone. Ce document donne un aperçu des principales fonctionnalités fournies par cette suite.
 
 .. add toctree ?
 
-Créer un annuaire pour votre portail
-====================================
+Créer un contenu "annuaire"
+===========================
 
-Un site Plone peut contenir un et un seul annuaire. Cet annuaire est destiné à contenir des organisations, fonctions, personnes et contacts.
-L'annuaire décrit les types d'organisation, les niveaux d'organisation et les types de fonctions pouvant être représentées.
+Un système d'information collaboratif sous Plone contient par défaut un seul annuaire. Cet annuaire permet de gérer des organisations et des fonctions en liaison avec des personnes physiques.
+Il est possible de définir des types d'organisation, des niveaux d'organisation et des types de fonctions spécifiques.
 
-Pour créer un annuaire, il suffit d'ajouter un contenu "Annuaire" dans votre site Plone et de remplir les champs comme suit :
+Pour créer un annuaire, il convient de commencer par ajouter un contenu "Annuaire" dans votre système d'information collaboratif sous Plone et de remplir les champs suivants :
 
 .. figure:: ./images/add_directory.png
     :align: center
@@ -23,7 +23,7 @@ Pour créer un annuaire, il suffit d'ajouter un contenu "Annuaire" dans votre si
 Ajouter une personne dans l'annuaire
 ====================================
 
-On peut alors ajouter une personne dans l'annuaire :
+Une fois le contenu "Annuaire" créé, des personnes peuvent être ajoutées :
 
 .. figure:: ./images/mdurand.png
     :align: center
