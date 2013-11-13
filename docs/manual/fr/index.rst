@@ -28,7 +28,7 @@ Une fois le contenu "Annuaire" créé, des personnes peuvent être ajoutées :
 .. figure:: ./images/mdurand.png
     :align: center
 
-Comme indiqué par la suite, une personne peut occuper une ou plusieurs fonctions dans une ou plusieurs organisations.
+Comme il sera indiqué par la suite, une personne peut occuper une ou plusieurs fonctions dans une ou plusieurs organisations.
 
 
 Ajouter une organisation dans l'annuaire
